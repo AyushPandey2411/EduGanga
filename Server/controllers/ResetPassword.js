@@ -36,7 +36,7 @@ exports.resetPasswordToken=async(req,res)=>{
     //create url
     
      //frontend will run on 3000 port
-    const url=`http://localhost:3000/update-password/${token}`
+    const url=`https://eduganga.netlify.app/update-password/${token}`
 
     //send mail containing url
 
