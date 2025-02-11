@@ -1,6 +1,6 @@
 # 🎓 **EduGanga - EdTech Platform**
 
-🚀 **Explore Live Demo**:  https://eduganga.netlify.app/
+🚀 **Explore Live Demo**: [EduGanga Demo](https://eduganga.netlify.app/)  
 
 **EduGanga** is a comprehensive **EdTech platform** designed to provide seamless learning experiences for both users and instructors. With a modern, responsive interface built using **React.js** and **Tailwind CSS**, EduGanga allows users to explore and enroll in courses, track their learning progress, and manage their profiles effortlessly. Instructors can create and manage courses easily, enhancing the learning journey with dynamic content. The backend, powered by **Node.js** and **Express.js**, ensures a robust and scalable environment, while **MongoDB** serves as the reliable database for storing user and course data.
 
